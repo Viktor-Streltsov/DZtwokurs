@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+.wrapper {
+    color: #000;
+}
+
+.theme {
+    cursor: pointer;
+    margin: 50px 40px;
+}
